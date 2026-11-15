@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-vlc component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-vlc"
+name = "sigmaos_archlinux_vlc"
 path = "src/lib.rs"
