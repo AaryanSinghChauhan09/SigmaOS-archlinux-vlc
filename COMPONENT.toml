@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-vlc"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-vlc component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
